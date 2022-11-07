@@ -7,7 +7,7 @@
 
 ### How to get it
 Pull the image from github container registry:  
-<code>docker pull orangecloudfoundry/orange-ksql-cutsom:<image_tag></code>
+<code>docker pull ghcr.io/orange-cloudfoundry/orange-ksql-cutsom:<image_tag></code>
 
 ### How to build it
 Clone the repository:  
