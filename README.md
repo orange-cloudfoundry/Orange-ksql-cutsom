@@ -1,4 +1,5 @@
 # Orange-ksql-enriched
+Image based on confluentinc/ksqldb-cli:0.28.2 and add some tools to it.
 
 ### Generic tools
  * `jq` - JSON processing tool (https://stedolan.github.io/jq/)
