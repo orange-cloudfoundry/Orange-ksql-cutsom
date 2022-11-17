@@ -1,4 +1,4 @@
-# Orange-ksql-cutsom
+# Orange-ksql-enriched
 
 ### Generic tools
  * `jq` - JSON processing tool (https://stedolan.github.io/jq/)
